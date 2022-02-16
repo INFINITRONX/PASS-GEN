@@ -1,6 +1,7 @@
+import os
 import random
 import string
-
+os.system("clear")
 print("HELLO,, WELCOME TO DARK CYBER WEAPON PASSWORD GENERATOR")
 
 print(" ____        _        ____    ____  ")
